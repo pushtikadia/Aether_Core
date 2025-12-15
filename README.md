@@ -53,7 +53,8 @@ The system captures video frames at ~30 FPS. Frames are processed in a grayscale
 Unlike traditional blocking scripts, AETHER CORE utilizes a non-blocking `update_loop`. This ensures that heavy I/O operations (like writing to the disk or fetching network packets) never interrupt the smoothness of the video feed.
 
 ## 📸 Screenshot
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/39ba5ba3-f1d9-449b-8676-ccaa3c3865f1" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/9e675655-7b90-4091-a4f2-56f986db3631" />
+
 
 
 
