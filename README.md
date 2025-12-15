@@ -60,14 +60,15 @@ A non-blocking `update_loop` gathers system vitals (CPU/RAM/Net/Disk) every 30ms
 
 ## 📸 Screenshots
 
-*(Place a screenshot of your new "Sentry Mode" dashboard here)*
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/3b92b996-a868-40d3-9c71-44617e65af2b" />
+
 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-*Engineered by [Your Name]*
+
 <p align="center">
   <b>Expenza Core</b> • Created by <a href="https://github.com/pushtikadia"><b>Pushti Kadia</b></a>
 </p>
