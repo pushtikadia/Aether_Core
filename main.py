@@ -271,3 +271,5 @@ def dashboard():
     ui.timer(0, update_loop, once=True)
 
 ui.run(title='AETHER SENTRY', dark=True, frameless=False)
+
+
